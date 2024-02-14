@@ -295,7 +295,7 @@ z-index: 4;
     left: 0;
   }
 
-  .tooltip {
+  .tooltip, .heart {
     left: 50%;
   }
 }
