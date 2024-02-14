@@ -283,8 +283,11 @@ z-index: 4;
     width: 100%;
   }
 
-  .front, .envelope-top, .envelope {
+  .front, .envelope-top {
     left: 0;
+  } 
+  .envelope {
+    left: 50%;
   }
 
   .tooltip {
