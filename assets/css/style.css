@@ -21,7 +21,7 @@ body{
 
 .text{
   font-family: inherit;
-  font-size: 24px;
+  font-size: 20px;
   color: #AA4A44;
 }
 
@@ -281,6 +281,7 @@ z-index: 4;
 @media screen and (max-width: 600px) {
   .container {
     width: 100%;
+    top: 50%;
   }
 
   .front, .envelope-top {
