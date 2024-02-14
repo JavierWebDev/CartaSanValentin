@@ -285,7 +285,7 @@ z-index: 4;
   }
 
   .card {
-    left: 5%;
+    left: 20px;
   }
 
   .front, .envelope-top {
